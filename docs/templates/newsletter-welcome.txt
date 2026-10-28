@@ -1,0 +1,34 @@
+NEWSLETTER WELCOME EMAIL TEMPLATE
+=================================
+
+Copy this file and replace every [bracketed] part. Send immediately after
+someone confirms their subscription (double opt-in). Keep the tone warm
+and plain — like a friend would.
+
+Subject: Welcome + [free gift, if you have one]
+
+Hi [First name],
+
+Thanks for signing up. I'm [Author name], author of [Book title].
+
+Here is what to expect: [frequency] emails about [topics]. You can
+unsubscribe at any time — the link is at the bottom of every email, and
+I will never sell or share your address.
+
+[If you have a free gift:] As promised, here is [gift link].
+
+[If you have a book out:] You can find [Book title] at [retailer links].
+
+Questions? Just reply to this email. I read every reply.
+
+Best,
+[Author name]
+[Website]
+
+SETUP NOTES
+-----------
+- Use your author email address, not your personal one.
+- Turn on double opt-in so subscribers confirm their email.
+- Every email must include a working unsubscribe link.
+- No home address or personal phone in the footer unless the law requires
+  one (use a PO box or business address instead).

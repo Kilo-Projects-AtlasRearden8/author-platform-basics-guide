@@ -1,0 +1,44 @@
+SOCIAL POST TEMPLATES
+=====================
+
+Copy this file and replace every [bracketed] part. Pick 1-2 platforms
+your readers use; 2-3 posts per week is enough to start.
+
+NEW BOOK ANNOUNCEMENT
+---------------------
+My book [Book title] is out now! It's a [genre] book about [one-line
+description], written for [audience]. Available at [retailer links].
+#[genre] #[topic]
+
+BEHIND THE SCENES
+-----------------
+Working on [chapter/section] today. This one took [number] tries to
+explain in plain English. That's the job. #amwriting #[topic]
+
+NEWSLETTER REMINDER
+-------------------
+New newsletter went out: [topic]. Join at [landing page link]. No ads,
+ever, and you can leave anytime.
+
+EVENT INVITE
+------------
+I'll be at [library/bookstore] on [date] at [time] talking about [topic].
+Free and open to the public. Hope to see you there.
+
+REVIEW THANK-YOU (only where the reviewer posted publicly)
+-----------------------------------------------------------
+Thank you [Reviewer name] for the kind review of [Book title] — it means
+a lot.
+
+PRIVACY NOTES
+-------------
+- No home address, personal phone, or private email in posts.
+- Check photo backgrounds before posting (no home, street, or workplace).
+- Never share a reader's name or photo without permission.
+- Keep author and personal accounts separate if you want to.
+
+REPURPOSE IDEAS
+---------------
+One newsletter issue = 3 posts (announcement, tip, reminder).
+One press release = 1 announcement post.
+One local event = 3 posts (invite, reminder, thank-you after).

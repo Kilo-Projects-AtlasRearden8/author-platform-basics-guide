@@ -1,0 +1,59 @@
+ARC READER EMAIL TEMPLATE
+=========================
+
+Copy this file and replace every [bracketed] part. ARC readers are
+volunteers who read your book before launch and leave honest reviews.
+Never pay for reviews, and never require a positive one.
+
+RECRUITMENT EMAIL / POST
+------------------------
+Subject: Free advance copy of [Book title] — looking for [number] readers
+
+Hi [Name],
+
+I'm looking for [number] ARC (advance reader) readers for [Book title],
+a [genre] book about [topic], launching [launch date].
+
+You get a free advance copy. In exchange, I'd appreciate an honest
+review (good or bad) around launch day, wherever you like to review:
+Amazon, Goodreads, StoryGraph, or your own blog.
+
+There is no obligation to review, and a critical review is perfectly
+fine. Interested? Reply to this email and I'll send the copy.
+
+Thanks,
+[Author name]
+[Author email]
+[Website]
+
+WELCOME EMAIL (SENT WITH THE COPY)
+----------------------------------
+Subject: Your advance copy of [Book title]
+
+Hi [Name],
+
+Thank you for being an ARC reader for [Book title]! [Copy attached / link
+to download].
+
+A few things to know:
+- The book launches on [launch date].
+- If you choose to review, an honest review is what I want — critical
+  reviews are fine.
+- Suggested places to review: Amazon, Goodreads, StoryGraph, your blog.
+- In the United States, reviewers who received a free copy often add:
+  "I received a free advance copy of this book from the author. This is
+  my honest review." You don't have to, but it's a helpful habit.
+
+Your email address stays private. I won't share it with anyone.
+
+Questions? Reply to this email.
+
+Best,
+[Author name]
+
+PRIVACY NOTES
+-------------
+- Send group emails with BCC so readers don't see each other's addresses.
+- Never ask for more than an email address.
+- Never pay for reviews or require a positive review.
+- Delete the reader list after launch if you no longer need it.

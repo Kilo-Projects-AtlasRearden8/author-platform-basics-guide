@@ -1,0 +1,32 @@
+EVENT PITCH EMAIL TEMPLATE
+==========================
+
+Copy this and replace every [bracketed] part. Send to libraries,
+bookstores, or community centers 6-8 weeks before your desired date.
+
+Subject: Event proposal: [Book title] talk at [venue]
+
+Hi [Venue contact name],
+
+I'm [Author name], a [role/credential] based in [city/state] and author
+of [Book title], a [genre] book about [topic]. [One sentence of
+background.]
+
+I'd like to propose a [30–60 minute] talk/reading at [venue] for
+[audience], ideally [month/season]. I can bring copies of my book to
+sign or sell, and I'll handle my own promotion.
+
+Here is a rough outline:
+- Welcome and introductions (5 min)
+- Who I am and why I wrote the book (10 min)
+- Reading or short demo (15 min)
+- Q&A (10 min)
+- Where to find the book and newsletter sign-up (5 min)
+
+Are you scheduling events for [season]? I'd be happy to answer any
+questions.
+
+Thanks,
+[Author name]
+[Author email]
+[Website]

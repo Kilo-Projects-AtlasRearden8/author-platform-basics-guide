@@ -1,0 +1,27 @@
+EVENT SIGN-IN SHEET TEMPLATE
+============================
+
+Copy this, print it, and bring it to your event. Collect only what you
+need, and tell people how you will use it.
+
+EVENT: [Book title] — [library/bookstore/venue]
+DATE: [date]       AUTHOR: [author name]
+
+Privacy note: I will use your email to send my occasional newsletter
+about [topics]. You can unsubscribe at any time. I never sell or share
+this list.
+
+| # | Name | Email | OK to add to newsletter? (Y/N) |
+|---|------|-------|--------------------------------|
+| 1 |      |       |                                |
+| 2 |      |       |                                |
+| 3 |      |       |                                |
+| 4 |      |       |                                |
+| 5 |      |       |                                |
+| 6 |      |       |                                |
+| 7 |      |       |                                |
+| 8 |      |       |                                |
+| 9 |      |       |                                |
+|10 |      |       |                                |
+
+Add only the "Y" addresses to your newsletter, and only after the event.

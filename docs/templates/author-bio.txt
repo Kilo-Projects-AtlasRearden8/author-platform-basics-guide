@@ -1,0 +1,40 @@
+AUTHOR BIO TEMPLATE
+==================
+
+Copy this file and replace every [bracketed] part with your own details.
+Never include your home address, personal phone, or private email.
+
+SHORT (25-50 words)
+-------------------
+[Full name] is a [role/credential] who writes [genre/topic] for [audience].
+[Book title] is [one-line description]. Based in [state/region].
+Find more at [website].
+
+MEDIUM (75-125 words)
+---------------------
+[Full name] is a [role/credential] based in [state/region]. They write
+[genre/topic] for [audience]. [One sentence of background or why this
+topic matters to them]. [Book title] is [one-line description]. [Full
+name] lives in [state/region] with [optional personal detail]. Readers
+can sign up for [Full name]'s newsletter at [website].
+
+LONG (150-250 words)
+--------------------
+[Full name] is a [role/credential] based in [state/region]. They write
+[genre/topic] for [audience]. [Two or three sentences of background:
+career, training, or lived experience that led to this book].
+
+[Full name] wrote [Book title] because [the "why" behind the book, one
+or two sentences]. [One sentence about what readers will get from it].
+[Full name] lives in [state/region] with [family/pet/hobby].
+
+Find more at [website] or sign up for the newsletter at [newsletter link].
+
+EXAMPLE (replace with your own)
+-------------------------------
+Dylan Asdale is a registered nurse and founder of Asdale Dynamics, LLC, an
+Indiana publisher of beginner-friendly AI education. He writes practical
+guides that explain AI "like a friend would": plain English, step by step,
+never condescending. His book The Massive AI Manual helps non-technical
+readers use AI tools confidently. Dylan lives in Indiana.
+Find his free guides and newsletter at dylanasdale.github.io.

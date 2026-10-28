@@ -1,0 +1,44 @@
+PRESS RELEASE TEMPLATE
+======================
+
+Copy this file and replace every [bracketed] part. Use an author email,
+not a personal one. City and state only in the dateline — no home address.
+
+FOR IMMEDIATE RELEASE
+---------------------
+
+[Headline — under 12 words]
+
+[Sub-headline — one line, why it matters]
+
+[City], [State] — [Month Day, Year] — [Author name] today announced the
+release of [Book title], a [genre/category] book [published by
+[publisher or "self-published"]]. [One sentence describing the book and
+who it is for.]
+
+[Second sentence: the problem the book solves and why it matters now.]
+
+[Author name] is a [credential/role] based in [state]. [One sentence of
+background.]
+
+"I wrote this book because..." — [Author name]
+
+[Book title] is available at [retailers]. [Format and price, optional.]
+
+About [Author name] / Asdale Dynamics, LLC:
+[Two or three sentences about who you are and what you publish.]
+
+###
+
+Media contact:
+[Author name]
+[Author email]
+[Website]
+
+WHERE TO SEND IT (FREE)
+-----------------------
+- Local newspaper (city desk or community editor)
+- Local radio stations and community calendars
+- Library newsletters and bookstore event coordinators
+- Bloggers and newsletter writers in your topic area (find them yourself;
+  never buy media lists)
